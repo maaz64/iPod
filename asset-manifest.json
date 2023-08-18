@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/iPod/static/css/main.4efe5076.css",
+    "main.js": "/iPod/static/js/main.7b620f57.js",
+    "static/media/Star Boy.mp3": "/iPod/static/media/Star Boy.46a4791f080915ee1759.mp3",
+    "static/media/Let me love you.mp3": "/iPod/static/media/Let me love you.89fe7da60639eb6544bd.mp3",
+    "static/media/Harleys In Hawaii Katty Perry.mp3": "/iPod/static/media/Harleys In Hawaii Katty Perry.ab60cf39b755b947a82a.mp3",
+    "static/media/Billie Eilish Everything I Wanted.mp3": "/iPod/static/media/Billie Eilish Everything I Wanted.d84b99c02c750a9e47ef.mp3",
+    "static/media/HighwayNight.jpg": "/iPod/static/media/HighwayNight.31560684d46642a6ff83.jpg",
+    "static/media/Jony Love Your Voice.mp3": "/iPod/static/media/Jony Love Your Voice.cee175383b6b8fc7abdf.mp3",
+    "static/media/Jony Love Your Voice.png": "/iPod/static/media/Jony Love Your Voice.d46ea72622934fd22499.png",
+    "static/media/Justin Bieber.jpg": "/iPod/static/media/Justin Bieber.f0746ad4640568490514.jpg",
+    "static/media/BlackStone.jpg": "/iPod/static/media/BlackStone.09c237e101cf54a61e52.jpg",
+    "static/media/SnowFall.jpeg": "/iPod/static/media/SnowFall.8ec83c16f510cd79f9a2.jpeg",
+    "static/media/katty perry.jpeg": "/iPod/static/media/katty perry.17780eb3460f1dc650e9.jpeg",
+    "index.html": "/iPod/index.html",
+    "main.4efe5076.css.map": "/iPod/static/css/main.4efe5076.css.map",
+    "main.7b620f57.js.map": "/iPod/static/js/main.7b620f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4efe5076.css",
+    "static/js/main.7b620f57.js"
+  ]
+}
