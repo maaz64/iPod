@@ -1,5 +1,6 @@
 
 # iPod
+This Application is developed on ReactJs using Class based Components
 
 ## Demo
 https://maaz64.github.io/iPod/
